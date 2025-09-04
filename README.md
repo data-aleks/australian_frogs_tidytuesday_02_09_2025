@@ -32,9 +32,8 @@ This is a fairly clean dataset, with minimal missing values. There is a date, ti
 ## Data cleaning
 * Renamed all columns to snake_case
 * Removed date, time, and time_zone columns from id dataset, created a combined datetime column instead
-* Converted scientific_name, state_province data types to category
 * Converted occurance_id, event_id, recorded_id to int32 data type
-* Converted sub_family, tribe in names dataset to category
 * Dropped 1 record from names dataset as missing scientific_name
 * Replaced secondary_common_names values in scientific_name data '-' with None
 * Replaced common_name values in scientific_name data '-' with None
+* Fixed naming inconsistencies between id and name data

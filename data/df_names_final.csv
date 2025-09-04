@@ -11,7 +11,7 @@ sub_family,tribe,scientific_name,common_name,secondary_common_names
  Hylid, Pelodryadidae,Cyclorana manya,Small Frog,Small Frog
  Hylid, Pelodryadidae,Cyclorana novaehollandiae,,
  Hylid, Pelodryadidae,Cyclorana occidentalis,,
- Hylid, Pelodryadidae,Cyclorana platycephalus,,
+ Hylid, Pelodryadidae,Cyclorana platycephala,,
  Hylid, Pelodryadidae,Cyclorana vagitus,,
  Hylid, Pelodryadidae,Cyclorana verrucosa,Rough Frog,Rough Frog
  Hylid, Pelodryadidae,Litoria,,
@@ -97,7 +97,7 @@ sub_family,tribe,scientific_name,common_name,secondary_common_names
  Hylid, Pelodryadidae,Litoria tornieri,,
  Hylid, Pelodryadidae,Litoria tyleri,"Southern Laughing Tree Frog, Laughing Tree Frog","Southern Laughing Tree Frog, Laughing Tree Frog"
  Hylid, Pelodryadidae,Litoria verreauxii alpina,,
- Hylid, Pelodryadidae,Litoria verreauxii verreauxii,,
+ Hylid, Pelodryadidae,Litoria verreauxii,,
  Hylid, Pelodryadidae,Litoria watjulumensis,"Giant Rocket Frog, Wotjulum Frog","Giant Rocket Frog, Wotjulum Frog"
  Hylid, Pelodryadidae,Litoria watsoni,Watson’s Tree Frog,Watson’s Tree Frog
  Hylid, Pelodryadidae,Litoria wilcoxii,Eastern Stony-creek Frog,Eastern Stony-creek Frog
@@ -132,7 +132,7 @@ sub_family,tribe,scientific_name,common_name,secondary_common_names
  Myobatrachid, Limnodynastidae,Adelotus brevis,,
  Myobatrachid, Limnodynastidae,Heleioporus,,
  Myobatrachid, Limnodynastidae,Heleioporus albopunctatus,,
- Myobatrachid, Limnodynastidae,Heleioporus australiacus australiacus,Eastern Owl Frog,Eastern Owl Frog
+ Myobatrachid, Limnodynastidae,Heleioporus australiacus,Eastern Owl Frog,Eastern Owl Frog
  Myobatrachid, Limnodynastidae,Heleioporus australiacus flavopunctatus,,
  Myobatrachid, Limnodynastidae,Heleioporus barycragus,,
  Myobatrachid, Limnodynastidae,Heleioporus eyrei,,
@@ -142,7 +142,7 @@ sub_family,tribe,scientific_name,common_name,secondary_common_names
  Myobatrachid, Limnodynastidae,Limnodynastes convexiusculus,,
  Myobatrachid, Limnodynastidae,Limnodynastes depressus,,
  Myobatrachid, Limnodynastidae,Limnodynastes dorsalis,,
- Myobatrachid, Limnodynastidae,Limnodynastes dumerilii dumerilii,Grey-bellied Pobblebonk,Grey-bellied Pobblebonk
+ Myobatrachid, Limnodynastidae,Limnodynastes dumerilii,Grey-bellied Pobblebonk,Grey-bellied Pobblebonk
  Myobatrachid, Limnodynastidae,Limnodynastes dumerilii fryi,,
  Myobatrachid, Limnodynastidae,Limnodynastes dumerilii insularis,,
  Myobatrachid, Limnodynastidae,Limnodynastes dumerilii variegatus,,
@@ -177,7 +177,7 @@ sub_family,tribe,scientific_name,common_name,secondary_common_names
  Myobatrachid, Limnodynastidae,Philoria loveridgei,Loveridge’s Mountain Frog,Loveridge’s Mountain Frog
  Myobatrachid, Limnodynastidae,Philoria pughi,,
  Myobatrachid, Limnodynastidae,Philoria richmondensis,Richmond Mountain Frog,Richmond Mountain Frog
- Myobatrachid, Limnodynastidae,Philoria sphagnicolus,,
+ Myobatrachid, Limnodynastidae,Philoria sphagnicola,,
  Myobatrachid, Limnodynastidae,Platyplectrum,,
  Myobatrachid, Limnodynastidae,Platyplectrum fletcheri,"Fletcher’s Frog, Black-soled Frog","Fletcher’s Frog, Black-soled Frog"
  Myobatrachid, Limnodynastidae,Platyplectrum ornatum,,
